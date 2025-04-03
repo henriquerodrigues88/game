@@ -1,0 +1,129 @@
+body {
+    background-color: #f4f4f4!important;
+}
+.container {
+    max-width: none!important;
+    margin-top: 15px;
+}
+.mb-4 {
+    margin-bottom: 1rem!important;
+}
+.mt-4 {
+    margin-top: 1rem!important;
+}
+h1 {
+    font-size: 1.8rem!important;
+    line-height: 1!important;
+    margin-top: 15px!important;
+    margin-bottom: 10px!important;
+}
+h2 {
+    font-size: 1.5rem!important;
+    line-height: 1!important;
+    margin-top: 15px!important;
+    margin-bottom: 10px!important;
+}
+ul {
+    padding-inline-start: 0;
+}
+::marker {
+    content: none;
+}
+#info {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+    padding: 20px 10px 5px 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+#acoes {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px!important;
+    gap: 10px;
+}
+#acoes button {
+    padding: 10px 15px;
+    font-size: 17px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#acoes button:hover {
+    background-color: #0056b3;
+}
+#equipeContainer, #demandasContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.membro-equipe, .tarefa {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 0 0 215px;
+}
+.membro-equipe button {
+    display: block;
+    margin: 5px auto;
+    padding: 5px 10px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.membro-equipe button:hover, .membro-equipe button:active, .membro-equipe button:visited {
+    background-color: darkgreen;
+}
+.tarefa button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.tarefa button:hover, .tarefa button:active, .tarefa button:disabled {
+    background-color: darkgreen;
+}
+#orcamento, #reputacao, #diaAtual {
+    font-size: 18px;
+    font-weight: bold;
+}
+#equipeContainer {
+    border-top: 2px solid #007bff;
+    padding-top: 10px;
+}
+#demandasContainer {
+    border-top: 2px solid #28a745;
+    padding-top: 10px;
+}
+#resetarContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#resetarContainer button {
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 8px 10px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
