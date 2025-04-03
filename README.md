@@ -6,8 +6,8 @@ Bem-vindo ao Game Agência, onde ideias inovadoras se transformam em campanhas d
 <li>Controle de reputação</li>
 <li>Controle de orçamento</li>
 <li>Controle de dias</li>
-<li>Atribuir tarefas aos membros da equipe</li>
-<li>Resolver tarefas com no mínimo 80% de qualidade</li>
+<li>Atribuir demandas aos membros da equipe</li>
+<li>Resolver demandas</li>
 <li>Contratar ou demitir membros da equipe</li>
 <li>Gerar demanda aleatória</li>
 <li>Premios: Ofereça café fraco, forte, fone de ouvido ou para aumentar a concentração do membro ou dinheiro como bônus no salário</li>
