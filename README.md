@@ -11,6 +11,6 @@ Bem-vindo ao Game Agência, onde ideias inovadoras se transformam em campanhas d
 <li>Contratar ou demitir membros da equipe</li>
 <li>Gerar demanda aleatória</li>
 <li>Premios: Ofereça café fraco, forte, fone de ouvido ou para aumentar a concentração do membro ou dinheiro como bônus no salário</li>
-<li>Punição: Os membros podem ser penalizados no salário se executarem uma tarefa com menos de 80% de qualidade</li>
+<li>Punição: Os membros são penalizados no salário se executarem uma tarefa com menos de 80% de qualidade</li>
 <li>Incentivo: Os membros ganham um incentivo no salário se executarem uma tarefa com 80% de qualidade ou mais</li>
 </ul>
