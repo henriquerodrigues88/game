@@ -4,7 +4,7 @@ Bem-vindo ao Game Agência, onde ideias inovadoras se transformam em campanhas d
 <h1>Funcionalidades</h1>
 <ul>
 <li>Controle de reputação</li>
-<li>Controle de orçamento</li>li>
+<li>Controle de orçamento</li>
 <li>Controle de dias</li>
 <li>Atribuir tarefas aos membros da equipe</li>
 <li>Resolver tarefas com no mínimo 80% de qualidade</li>
