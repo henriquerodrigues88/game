@@ -1,16 +1,25 @@
 # Game Agência
 Um jogo que simula o dia a dia de uma agência de publicidade.
-Bem-vindo ao Game Agência, onde ideias inovadoras se transformam em campanhas de sucesso! Você está no comando de uma agência de publicidade emergente e precisará tomar decisões estratégicas para atender clientes exigentes, criar campanhas memoráveis e superar desafios do mercado.
+Bem-vindo ao Game Agência, o jogo onde você vive na pele o dia a dia de uma agência de publicidade. Aqui, o sucesso depende da sua capacidade de gerenciar demandas, organizar entregas e manter os clientes satisfeitos. Tudo isso com prazos apertados e muita pressão criativa.
 <h1>Funcionalidades</h1>
 <ul>
-<li>Controle de reputação</li>
-<li>Controle de orçamento</li>
+<li>Reputação</li>
+<li>Orçamento</li>
+<li>Relatório mensal</li>
 <li>Controle de dias</li>
-<li>Atribuir demandas aos membros da equipe</li>
-<li>Resolver demandas</li>
-<li>Contratar ou demitir membros da equipe</li>
-<li>Gerar demanda aleatória</li>
-<li>Premios: Ofereça fone de ouvido, café fraco e café forte para aumentar a concentração do membro. Ou dinheiro como bônus no salário</li>
-<li>Punição: Os membros são penalizados no salário se executarem uma tarefa com menos de 80% de qualidade</li>
-<li>Incentivo: Os membros ganham um incentivo no salário se executarem uma tarefa com 80% de qualidade ou mais</li>
+<li>Demandas do board</li>
+<li>Atribuição de demandas aos membros da equipe</li>
+<li>Resolução de demandas</li>
+<li>Contratação e demissão de membros da equipe - Há custos para contratar e demitir</li>
+<li>Geração de demanda aleatória</li>
+<li>Habilidades: Se a demanda é executada com menos de 80% de qualidade, a habilidade cai 1%. Se não, aumenta 1% </li>
+<li>Premios: Ofereça entre fone de ouvido, café fraco e café forte para aumentar a concentração do membro. Ou dinheiro como bônus no salário</li>
+<li>Punição: Os membros tem desconto no salário se executarem uma tarefa com menos de 80% de qualidade</li>
+<li>Incentivo: Os membros ganham um incentivo no salário se resolverem uma tarefa com 80% de qualidade ou mais</li>
+<li>Botão Resetar Progresso</li>
 </ul>
+<h2>Feito com</h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>Javascript</li>
