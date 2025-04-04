@@ -10,7 +10,7 @@ https://henriquerodrigues88.github.io/game/
 <li>Controle de dias</li>
 <li>Demandas do board</li>
 <li>Atribuição de demandas aos membros da equipe</li>
-<li>Resolução de demandas</li>
+<li>Execução/Resolução de demandas</li>
 <li>Contratação e demissão de membros da equipe - Há custos para contratar e demitir</li>
 <li>Geração de demanda aleatória</li>
 <li>Habilidades: Se a demanda é executada com menos de 80% de qualidade, a habilidade cai 1%. Se não, aumenta 1%</li>
