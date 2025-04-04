@@ -12,7 +12,7 @@ Bem-vindo ao Game Agência, o jogo onde você vive na pele o dia a dia de uma ag
 <li>Resolução de demandas</li>
 <li>Contratação e demissão de membros da equipe - Há custos para contratar e demitir</li>
 <li>Geração de demanda aleatória</li>
-<li>Habilidades: Se a demanda é executada com menos de 80% de qualidade, a habilidade cai 1%. Se não, aumenta 1% </li>
+<li>Habilidades: Se a demanda é executada com menos de 80% de qualidade, a habilidade cai 1%. Se não, aumenta 1%</li>
 <li>Premios: Ofereça entre fone de ouvido, café fraco e café forte para aumentar a concentração do membro. Ou dinheiro como bônus no salário</li>
 <li>Punição: Os membros tem desconto no salário se executarem uma tarefa com menos de 80% de qualidade</li>
 <li>Incentivo: Os membros ganham um incentivo no salário se resolverem uma tarefa com 80% de qualidade ou mais</li>
