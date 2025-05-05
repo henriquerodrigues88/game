@@ -1,7 +1,6 @@
 # Game Agência
 Um jogo que simula o dia a dia de uma agência de publicidade.<br>
 Bem-vindo ao Game Agência, o jogo onde você vive na pele o dia a dia de uma agência de publicidade. Aqui, o sucesso depende da sua capacidade de gerenciar demandas, organizar entregas e manter os clientes satisfeitos. Tudo isso com prazos apertados e muita pressão criativa.<br>
-https://henriquerodrigues88.github.io/game/
 <h1>Funcionalidades</h1>
 <ul>
 <li>Reputação</li>
