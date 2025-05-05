@@ -1,6 +1,6 @@
 # Game Agency
 A game that simulates the day-to-day life of an advertising agency.<br>
-Welcome to Game Agência, the game where you experience the day-to-day life of an advertising agency. Here, success depends on your ability to manage demands, organize deliveries and keep clients satisfied. All this with tight deadlines and a lot of creative pressure.<br>
+Welcome to <strong>Game Agency</strong>, the game where you experience the day-to-day life of an advertising agency. Here, success depends on your ability to manage demands, organize deliveries and keep clients satisfied. All this with tight deadlines and a lot of creative pressure.<br>
 <h1>Features</h1>
 <ul>
 <li>Reputation</li>
